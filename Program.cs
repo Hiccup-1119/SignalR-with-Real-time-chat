@@ -26,6 +26,6 @@ app.MapStaticAssets();
 app.MapRazorPages()
    .WithStaticAssets();
 
-app.MapHub<ChatHub>("/chatHub");
+app.MapHub<StronglyTypedChatHub>("/Chat");
 
 app.Run();

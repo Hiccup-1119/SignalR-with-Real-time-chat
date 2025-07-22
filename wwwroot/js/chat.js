@@ -11,6 +11,15 @@ connection.on("ReceiveMessage", function (user, message) {
     li.textContent = `${user} says ${message}`;
 })
 
+connection.on("GetMessage", async () => {
+    let promise = new Promise((resolve, reject) => {
+        setTimeout(() => {
+            resolve("message");
+        }, 100);
+    });
+    return promise;
+})
+
 connection.start().then(function () {
     document.getElementById("sendButton").disabled = false;
 }).catch(err => {
