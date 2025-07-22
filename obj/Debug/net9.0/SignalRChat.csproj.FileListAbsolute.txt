@@ -98,4 +98,10 @@ E:\New folder\Real tim with SignalR\SignalRChat\obj\Debug\net9.0\refint\SignalRC
 E:\New folder\Real tim with SignalR\SignalRChat\obj\Debug\net9.0\SignalRChat.pdb
 E:\New folder\Real tim with SignalR\SignalRChat\obj\Debug\net9.0\SignalRChat.genruntimeconfig.cache
 E:\New folder\Real tim with SignalR\SignalRChat\obj\Debug\net9.0\ref\SignalRChat.dll
-E:\New folder\Real tim with SignalR\SignalRChat\obj\Debug\net9.0\compressed\3jbt4mr5q4-jy9q5pnokz.gz
+E:\New folder\Real tim with SignalR\SignalRChat\bin\Debug\net9.0\Google.Protobuf.dll
+E:\New folder\Real tim with SignalR\SignalRChat\bin\Debug\net9.0\Grpc.Core.Api.dll
+E:\New folder\Real tim with SignalR\SignalRChat\bin\Debug\net9.0\Grpc.Net.Client.dll
+E:\New folder\Real tim with SignalR\SignalRChat\bin\Debug\net9.0\Grpc.Net.Common.dll
+E:\New folder\Real tim with SignalR\SignalRChat\obj\Debug\net9.0\SignalRChat.csproj.AssemblyReference.cache
+E:\New folder\Real tim with SignalR\SignalRChat\obj\Debug\net9.0\compressed\3jbt4mr5q4-9n5pa4nmcy.gz
+E:\New folder\Real tim with SignalR\SignalRChat\obj\Debug\net9.0\SignalRC.5F9AC61D.Up2Date

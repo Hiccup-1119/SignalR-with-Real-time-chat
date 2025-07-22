@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "whSfadvYULfRb2puiVA1jaJOIB2u/yrgj42cgeOS764=",
+  "Hash": "4kMu9nhDl5MUUm4f91ganymxQf/ejy9wVwFwZ8vM6k0=",
   "Source": "SignalRChat",
   "BasePath": "_content/SignalRChat",
   "Mode": "Default",
@@ -164,12 +164,12 @@
       "OriginalItemSpec": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\obj\\Debug\\net9.0\\compressed\\3jbt4mr5q4-jy9q5pnokz.gz",
+      "Identity": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\obj\\Debug\\net9.0\\compressed\\3jbt4mr5q4-9n5pa4nmcy.gz",
       "SourceId": "SignalRChat",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SignalRChat",
-      "RelativePath": "js/chat#[.{fingerprint=jy9q5pnokz}]?.js.gz",
+      "RelativePath": "js/chat#[.{fingerprint=9n5pa4nmcy}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -178,8 +178,8 @@
       "RelatedAsset": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\wwwroot\\js\\chat.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "z1uon9srag",
-      "Integrity": "J2n/s8o1c2QHkG366Pq43f9suw4ZeDpfMQmD9MBGU/U=",
+      "Fingerprint": "rswa3fu2hi",
+      "Integrity": "dVzCw4oqkmjy6vbR75yLmZwU5TFTiDqCm2hcv2RaTMc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\wwwroot\\js\\chat.js"
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jy9q5pnokz",
-      "Integrity": "FbLC3gKqyerRZ0kUNE5SFucCjTF9uOsXN3JJo/315UU=",
+      "Fingerprint": "9n5pa4nmcy",
+      "Integrity": "K00LX7/Ym+2AXl25qtve8n30CRSbWQt+e4FX8cvgWAg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\chat.js"
@@ -3408,13 +3408,13 @@
       ]
     },
     {
-      "Route": "js/chat.js",
-      "AssetFile": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\obj\\Debug\\net9.0\\compressed\\3jbt4mr5q4-jy9q5pnokz.gz",
+      "Route": "js/chat.9n5pa4nmcy.js",
+      "AssetFile": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\obj\\Debug\\net9.0\\compressed\\3jbt4mr5q4-9n5pa4nmcy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002358490566"
+          "Quality": "0.002020202020"
         }
       ],
       "ResponseHeaders": [
@@ -3424,19 +3424,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "423"
+          "Value": "494"
         },
         {
           "Name": "ETag",
-          "Value": "\"J2n/s8o1c2QHkG366Pq43f9suw4ZeDpfMQmD9MBGU/U=\""
+          "Value": "\"dVzCw4oqkmjy6vbR75yLmZwU5TFTiDqCm2hcv2RaTMc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Jul 2025 22:57:55 GMT"
+          "Value": "Mon, 21 Jul 2025 23:51:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3452,18 +3452,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"FbLC3gKqyerRZ0kUNE5SFucCjTF9uOsXN3JJo/315UU=\""
+          "Value": "W/\"K00LX7/Ym+2AXl25qtve8n30CRSbWQt+e4FX8cvgWAg=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "9n5pa4nmcy"
+        },
+        {
+          "Name": "label",
+          "Value": "js/chat.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-FbLC3gKqyerRZ0kUNE5SFucCjTF9uOsXN3JJo/315UU="
+          "Value": "sha256-K00LX7/Ym+2AXl25qtve8n30CRSbWQt+e4FX8cvgWAg="
         }
       ]
     },
     {
-      "Route": "js/chat.js",
+      "Route": "js/chat.9n5pa4nmcy.js",
       "AssetFile": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\wwwroot\\js\\chat.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3473,7 +3481,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "923"
+          "Value": "1135"
         },
         {
           "Name": "Content-Type",
@@ -3481,121 +3489,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FbLC3gKqyerRZ0kUNE5SFucCjTF9uOsXN3JJo/315UU=\""
+          "Value": "\"K00LX7/Ym+2AXl25qtve8n30CRSbWQt+e4FX8cvgWAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Jul 2025 22:57:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FbLC3gKqyerRZ0kUNE5SFucCjTF9uOsXN3JJo/315UU="
-        }
-      ]
-    },
-    {
-      "Route": "js/chat.js.gz",
-      "AssetFile": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\obj\\Debug\\net9.0\\compressed\\3jbt4mr5q4-jy9q5pnokz.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "423"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J2n/s8o1c2QHkG366Pq43f9suw4ZeDpfMQmD9MBGU/U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Jul 2025 22:57:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-J2n/s8o1c2QHkG366Pq43f9suw4ZeDpfMQmD9MBGU/U="
-        }
-      ]
-    },
-    {
-      "Route": "js/chat.jy9q5pnokz.js",
-      "AssetFile": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\obj\\Debug\\net9.0\\compressed\\3jbt4mr5q4-jy9q5pnokz.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002358490566"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "423"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J2n/s8o1c2QHkG366Pq43f9suw4ZeDpfMQmD9MBGU/U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Jul 2025 22:57:55 GMT"
+          "Value": "Mon, 21 Jul 2025 23:51:55 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"FbLC3gKqyerRZ0kUNE5SFucCjTF9uOsXN3JJo/315UU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jy9q5pnokz"
+          "Value": "9n5pa4nmcy"
         },
         {
           "Name": "label",
@@ -3603,13 +3511,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FbLC3gKqyerRZ0kUNE5SFucCjTF9uOsXN3JJo/315UU="
+          "Value": "sha256-K00LX7/Ym+2AXl25qtve8n30CRSbWQt+e4FX8cvgWAg="
         }
       ]
     },
     {
-      "Route": "js/chat.jy9q5pnokz.js",
-      "AssetFile": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\wwwroot\\js\\chat.js",
+      "Route": "js/chat.9n5pa4nmcy.js.gz",
+      "AssetFile": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\obj\\Debug\\net9.0\\compressed\\3jbt4mr5q4-9n5pa4nmcy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3618,7 +3526,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "923"
+          "Value": "494"
         },
         {
           "Name": "Content-Type",
@@ -3626,56 +3534,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FbLC3gKqyerRZ0kUNE5SFucCjTF9uOsXN3JJo/315UU=\""
+          "Value": "\"dVzCw4oqkmjy6vbR75yLmZwU5TFTiDqCm2hcv2RaTMc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Jul 2025 22:57:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jy9q5pnokz"
-        },
-        {
-          "Name": "label",
-          "Value": "js/chat.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-FbLC3gKqyerRZ0kUNE5SFucCjTF9uOsXN3JJo/315UU="
-        }
-      ]
-    },
-    {
-      "Route": "js/chat.jy9q5pnokz.js.gz",
-      "AssetFile": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\obj\\Debug\\net9.0\\compressed\\3jbt4mr5q4-jy9q5pnokz.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "423"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J2n/s8o1c2QHkG366Pq43f9suw4ZeDpfMQmD9MBGU/U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Jul 2025 22:57:55 GMT"
+          "Value": "Mon, 21 Jul 2025 23:51:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3693,7 +3556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jy9q5pnokz"
+          "Value": "9n5pa4nmcy"
         },
         {
           "Name": "label",
@@ -3701,7 +3564,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J2n/s8o1c2QHkG366Pq43f9suw4ZeDpfMQmD9MBGU/U="
+          "Value": "sha256-dVzCw4oqkmjy6vbR75yLmZwU5TFTiDqCm2hcv2RaTMc="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.js",
+      "AssetFile": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\obj\\Debug\\net9.0\\compressed\\3jbt4mr5q4-9n5pa4nmcy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002020202020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "494"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dVzCw4oqkmjy6vbR75yLmZwU5TFTiDqCm2hcv2RaTMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 23:51:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"K00LX7/Ym+2AXl25qtve8n30CRSbWQt+e4FX8cvgWAg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K00LX7/Ym+2AXl25qtve8n30CRSbWQt+e4FX8cvgWAg="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.js",
+      "AssetFile": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\wwwroot\\js\\chat.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K00LX7/Ym+2AXl25qtve8n30CRSbWQt+e4FX8cvgWAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 23:51:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K00LX7/Ym+2AXl25qtve8n30CRSbWQt+e4FX8cvgWAg="
+        }
+      ]
+    },
+    {
+      "Route": "js/chat.js.gz",
+      "AssetFile": "E:\\New folder\\Real tim with SignalR\\SignalRChat\\obj\\Debug\\net9.0\\compressed\\3jbt4mr5q4-9n5pa4nmcy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dVzCw4oqkmjy6vbR75yLmZwU5TFTiDqCm2hcv2RaTMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 23:51:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dVzCw4oqkmjy6vbR75yLmZwU5TFTiDqCm2hcv2RaTMc="
         }
       ]
     },
